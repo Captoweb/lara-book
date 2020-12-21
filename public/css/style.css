@@ -1,0 +1,12 @@
+body {
+    background: #ccc;
+}
+.one_book .one_img {
+	max-width: 90%;
+}
+.mini_img {
+    height: 150px;
+}
+.col-md-4 .card {
+    margin: 10px;
+}
